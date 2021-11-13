@@ -68,8 +68,8 @@
                                 </div>
                                 <!-- End contact Icon -->
                                 <div class="contact-info">
-                                    <h3>Jaipur India</h3>
-                                    <p>5353 Road Avenue</p>
+                                    <h3>Sri Lanka</h3>
+                                    <p>53 Road Avenue</p>
                                 </div>
                                 <!-- End Contact Info -->
                             </div>
@@ -83,7 +83,7 @@
                                 </div>
                                 <!-- End contact Icon -->
                                 <div class="contact-info">
-                                    <h3>95 711 9 5353</h3>
+                                    <h3>+94 711 9 5353</h3>
                                     <p>Give us a call</p>
                                 </div>
                                 <!-- End Contact Info -->
@@ -169,7 +169,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <span>Copyright © 2019, All Right Reserved Seobin</span>
+                        <span>Copyright © 2021, All Right Reserved <a href="https://ruchiras.com"> RUCHIRA </a> </span>
                     </div>
                     <!-- End Col -->
                     <div class="col-md-6">
